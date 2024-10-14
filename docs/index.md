@@ -1,5 +1,4 @@
 # Welcome to PhpSpreadsheet's documentation
-
 ![Logo](./assets/logo.svg)
 
 PhpSpreadsheet is a library written in pure PHP and offers a set of classes that
